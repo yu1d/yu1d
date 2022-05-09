@@ -1,37 +1,74 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/99weihai/99weihai.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0,user-scalable=no">
+    <title>男人信息分享平台.</title>
+    <meta name="keywords" content="楼凤，兼职，良家，桑拿，洗浴，按摩，会所，高端外围，凤楼阁论坛，全国楼凤，论坛，免费">
+    <meta name="description" content="自由开放，信息共享，这里有全国各地楼凤，兼职，良家，桑拿，洗浴，按摩，会所，高端外围及体验感受的详细性息介绍,全国楼凤论坛免费">
+    <meta name="author" content="凤楼阁">
+    <link rel="icon" href="favicon.ico">
+    <style>
+        html, body { background: #FFCCCC; font-family: 'Ubuntu'; }
+        * { box-sizing: border-box; }
+        .box { width: 450px; height: 100%; max-height: 600px; min-height: 450px; background: #FFFFCC; border-radius: 20px; position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); padding: 30px 50px; }
+        .box .box__description { position: absolute; top: 20px; left: 50%; transform: translateX(-50%); text-align: left; }
+        .box .box__description .box__description-container { color: #333333; width: 380px; font-size: 16px; margin: 0 auto; }
+        .box .box__description .box__description-container .box__description-title { font-size: 24px; letter-spacing: .5px; }
+        .box .box__description .box__description-container .box__description-text { color: #333333; line-height: 20px; margin-top: 20px; }
+        .box .box__description ul { list-style-type: none; font-size: 14px; font-size: 1.1rem; margin-top: 20px; padding: 0; padding-left: 5px; }
+        .box .box__description ul li { margin: 8px 0; padding: 0 }
+        .box .box__description ul small { font-size: .8em; color: #339933; margin-left: 10px }
+        .box .box__description ul li a { text-decoration: none; color: #333333; }
+        .box .box__description ul li a:hover { color: #CCCCCC }
+        .box .box__description ul li a:hover small { color: inherit }
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+        @media(max-width:770px) {
+            .box { width: 350px; }
+            .box .box__description .box__description-container { width: 300px; }
+            .box .box__description .box__description-container .box__description-title { font-size: 19px; }
+            .box .box__description .box__description-container .box__description-text { font-size: 15px; }
+            .box .box__description h3 { font-size: 16px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="box">
+        <div class="box__description">
+            <div class="box__description-container">
+                <h1 class="box__description-title">最新网址和域名</h1>
+                <div class="box__description-text">最近域名被封,点击以下备用地址</div>
+                <ul>
+                    <li>
+                        <a href="https://wx3803652.com/">
+                            https://wx3803652.com
+                        </a>
+                        <small><time>可用</time></small>
+                    </li>
+                    <li>
+                        <a href="https://91weihai.cc/">
+                            https://91weihai.cc
 
-```markdown
-Syntax highlighted code block
+                        </a>
+                        <small><time>可用</time></small>
+                    </li>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/99weihai/99weihai.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+                </ul>
+                <h3>请务必收藏我们Github的防封地址：</h3>
+                <ul>
+                    <li>
+                        <a href="https://weihaisss.github.io">
+                           https://weihaisss.github.io
+                        </a>
+                        <small><time>牢记</time></small>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
